@@ -7,12 +7,21 @@
     <title>Document</title>
 </head>
 <body>
+
+  <nav class="col-row">
+    nav
+  </nav>
+  <!-- barra lateral --->
+  <aside >aside</aside>
+  <main >main   </main>
+  <footer>
+    footer
+  </footer>
+   
+
     <h1>stCNCNNCNCNCete</h1>
-    
 
-
-    
-
-    CCCCC
 </body>
 </html>
+
+
