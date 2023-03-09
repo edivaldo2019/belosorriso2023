@@ -1,7 +1,5 @@
 <?php 
-$g_tabDentista =$_GET['dentistaAgenda'];
-$usuariConn =  $_SESSION['s_usuarioConn'];
-$nivelacesso = $_SESSION['s_nivelAcesso'];
+
 
 if(isset($_POST['bt'])){
     $ID = mysqli_real_escape_string($conn, trim($_POST['ID']));
